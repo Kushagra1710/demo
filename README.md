@@ -1,3 +1,3 @@
 # demo
 this is learning repository
-Author name : Kushagra Sharma
+Author name : Kushagra (IIIT BHOPAL)
